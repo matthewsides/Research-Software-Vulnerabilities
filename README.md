@@ -2,7 +2,7 @@
 
 #### Table of Contents
 
-[1] Software Vulnerabilities, Prevention and Reduction (Primary Research)
+[1] Software Vulnerabilities, Prevention and Reduction (Secondary Research)
 
 [2]
 
@@ -245,3 +245,48 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
 •	Woody, Carol. and Nichols, Bill. (2015). Heartbleed and Goto Fail: Two Case Studies for Predicting Software Assurance Using Quality and Reliability Measures. Available at: https://insights.sei.cmu.edu/sei_blog/2015/04/heartbleed-and-goto-fail-two-case-studies-for-predicting-software-assurance-using-quality-and-reliab.html [Accessed on: ????] 
 
 •	Ur Rehman, R., Paul, C. (2002). The Linux Development Platform: Introduction to Software Development Chapter 1. Available at: http://catalogue.pearsoned.co.uk/samplechapter/0130091154.pdf   
+
+
+
+
+
+
+### Secondary Research Vulnerabilities; formulation,
+ ###    Comparison and analysis; Conclusion
+
+
+#### Introduction
+
+This report details information on an investigation and gathering of primary research to see whether the information would support an ongoing study relating to whether; 
+
+	They aware of the issues of vulnerabilities?
+
+	People are aware of possible ways to mitigate vulnerabilities?
+
+	People know why vulnerabilities may occur in a system?
+
+Furthermore a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst detail as to how the study was brought forth and carried out is also mentioned in the following document. 
+The deductions documented or detailed below are based on data gathered and congregated (assembled) into information, therefore solidifying the points brought across in the below document.
+
+Moreover  it appears that  part of  the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future .
+
+#### Primary Research Plan
+
+The ground work for the primary research was essentially covered through the application of a pre-formulated survey basing questions around information covered and pertained in the secondary research carried out prior. 
+In continuation to the prior point, sampling methods were also applied in the application of said survey, using the methodology such as the simple random sampling (SRS) method; a subset of a statistical population in which each member of the subset has an equal probability of being chosen. 
+
+The principle reason behind the use of said technique was to essentially cover and acquire a wide range of results and findings, thereafter varying the results through all ages. Though what was a common occurrence or what each surveyee had in common was that they were related in some form to the ICT department or were of a young age, this only veering or deviating in 4 occurrences out of the 20 surveyed, in which three were unrelated to the IT industry, whilst another relayed inconclusive findings as all the information noted by said surveyee can be seen to be falsified and the erroneous data was omitted from the graph charts, during data cleaning. There was also another occurrence in which the name noted down seemed fabricated (Cartoon Character’s Name; Johnny Bravo) , though since the name is not the most integral part of the survey and all the other fields and factors were covered, seemly with intuitive answers it is still possible to relay viable information from the data.
+
+Further delving into the factors and reason behind the high number of ICT students that took the survey, this can be seen to stem from the fact that all the ICT department is based on the same floor therefore it is no surprise that the majority of the data gathered is from said students and is in fact beneficial to the questions imposed above.
+
+Following said practical use of Simple random sampling another method used during the design and presentation of the survey was a non-probability method known as haphazard sample, heralding similarities to the simple random research method, but ultimately SRS is a probability method,   this was to used to meet time scales  as Haphazard sampling essentially entails choosing people based on their relative ease of access, though this was not necessary disadvantageous as it furthered the group/age range as to who was covered , making it more plausible and enabling for an output of a more broader view when answering the pre-listed queries in this documentation.  
+
+#### Analysis 
+
+Through thorough analysis of the information (portrayed in a graph) retrieved and formed based on the congregation of data, it may be seen that the majority of those surveyed understand what a Vulnerability is, however when enquired if they understood the issues of vulnerabilities there was  a mixed  response, with seven out of the twenty stating that they do not understand the issues (Issues, meaning what would happen if left unchecked) of vulnerabilities, though one of the surveyees answers were deemed invalid based on in accurate findings retrieved, whilst another was unsure as to the intention  of the question and thus left it blank. This only furthers the idea that due to the incapability of answering that it is likely that the surveyee did not understand the issues.
+Further delving into the numbers the data shows that despite being below half of those surveyed there was still a large margin with whom did not know the problems vulnerabilities may herald which is daunting taking into consideration 15 out of the 20 either work in an ICT related field or are learning ICT as a subject, so it is probable that said students or tutors have covered said subject. 
+
+In continuation to the points covered above based on the statistics and facts it may be gathered that those surveyed understand why vulnerabilities may occur, working in correlation with the data gathered that 18 out of the twenty when posed with numerous options as to the definition of vulnerabilities chose the correct choice that is; faults that may be exploited in a given system. Whereas when enquired about the reasons as to why faults or vulnerabilities may occur  particularly in windows and apples systems the main trend or a common factor could be seen to be Human error, whether this relates to client or the business side. 
+
+Whilst other common occurrences seemed to be lack of monitoring and manual reading of code, all common flaws that organisations are usually exploited by as seen and covered in the secondary research report and case studies gotofail (Apple Breach) and Equifax (Breach). Where vulnerabilities were seemly caused by Human error; in the case of the gotofail vulnerability it was stated to have occurred due to negligence not reviewing the code thus leading to a duplication of a line being left in with a missing parenthesis. Equifax’s vulnerabilities seemed to have occurred due to software faults used for or during development and lack of monitoring , though the impact or outcome could have been mitigated or reduced based on whether the proper monitoring and procedures were put in place. Thus supporting the idea and fronting that the majority of people know the reasons behind vulnerabilities in software or systems (the comparative analysis between data and real life situations substantiate this).
+
