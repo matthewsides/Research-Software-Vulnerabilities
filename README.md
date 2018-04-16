@@ -1,13 +1,21 @@
 # Research-Software-Vulnerabilities
 
 Software Vulnerabilities, Prevention and Reduction 
+
 Methods: Assessment
+
 Matthew Sides
+
 West Herts College, Watford 
+
 Hertfordshire, England
+
 Last Update: 25/02/2018
-                        19/02/2018
-Abstract.
+
+             19/02/2018
+             
+              Abstract.
+              
 Through analysis and deduction, this report contains information based around the topic of software development and vulnerabilities as a whole, further delving into the idea of vulnerabilities in software development through case study examples. Subsequently further down the document the mitigation of said vulnerabilities is covered, explaining a few methods of preventing or fixing said breaches that may occur, coming to a conclusion as to whether the case studies overlooked could have been mitigated and prevented before the situation spiralled out of hand.
 
 Keywords: Software Development, Vulnerabilities -
