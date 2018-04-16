@@ -1,6 +1,6 @@
-# Research-Software-Vulnerabilities
+## Research-Software-Vulnerabilities
 
-Software Vulnerabilities, Prevention and Reduction 
+### Software Vulnerabilities, Prevention and Reduction 
 
 Methods: Assessment
 
@@ -21,7 +21,8 @@ Through analysis and deduction, this report contains information based around th
 Keywords: Software Development, Vulnerabilities -
 Mitigation, Testing, Detection and Prevention
 
-Table of Contents
+#### Table of Contents
+
 [1] Introduction
 
 [2] Software Development 
@@ -41,7 +42,7 @@ Table of Contents
 This documentation pertains to the reduction of software vulnerabilities during development, further delving into the subject or topics of what software development (this includes Software-Development-Life-Cycles | SDLC) and vulnerabilities are, defining and suggesting possible solutions to said vulnerabilities during development, using case studies as illustrations and to portray the risks that herald with not mitigating vulnerabilities properly. 
 Thereafter concluding the various ways in which to resolve (fix) and reduce vulnerabilities encountered during the development or finished production of a system, covering a self-opinionated view and lightly addressing the issues usually encountered, re-defining software development and vulnerabilities to better bring the final point across (use as a reminder).
 
-[2] Software Development  
+#### [2] Software Development  
 Software development is a meticulous and complex process to develop software, comprised of numerous stages. In addition to the development and planning process, each stage generally entails documentation, in contrast to what is commonly known or how software development is usually portrayed (in media) Jimenez et al. No date). 
 A software development project must at least entail the following stages (though not constrained to the below list), a view supported by Abrahamsson et al. (2002):
 
@@ -63,25 +64,25 @@ VIII.	Documentation
 
 IX.	Support and new features
 
-[2.1] Client Brief 
+#### [2.1] Client Brief 
 
 This phase of development pertains to the act of retrieving a brief that details or defines the client’s requirements for the build asset. In correlation to Vulnerabilities, during this phase it is not conceivable for vulnerabilities to appear due to the lack of development of a physically or theoretical build.  However, misinterpretation of said client’s requirements along with a lacking description of prerequisites or implausible client goals, could lead to vulnerabilities appearing at a later stage of development.
 
 
 
-[2.2] Requirement Gathering 
+#### [2.2] Requirement Gathering 
 
 In my view, requirement gathering is the act of clarifying and ascertaining more detailed information based on the brief already been given by the client, concerning the reason for employment and said “goals and achievements” that the client expects from the company. This usually includes clients analysing market requirements and features in demand, to see whether there is a real need for the software that is being developed in the current market.
 
 A comprehensive understanding of the customers’ needs and writing down features of the proposed software product are the keys to success in this phase. Ur Rehman (2001) agrees that this phase is fundamentally the foundation or base for a project and failure to uphold or properly document could lead to a monumental catastrophe, with the project either failing to come together or veering off the client’s direction and vision for the project, not withholding or meeting the standards that the client may expect.
 
-[2.3] Writing Functional Specifications 
+#### [2.3] Writing Functional Specifications 
 
  Following said client gathering, a review should ensue to determine whether said pre-defined or set requirements given by the client are plausible, subsequently then determining as to how to achieve said specifications (Functional specifications are based upon the product requirements documentation put forward), drawing upon a functional specification document, showing the behaviour or functionality of a software product on an abstract level.
  
 The prominence of the usage of writing functional specifications relate to the creation of a design document, manuals for end-users, functional and architecture documents, being a means to communicate among groups disconnected by their software development landscape. Although during the product development phase amendments to functional specifications may be necessary, keeping in view new marketing requirements. 
 
-[2.4] Architecture and Design Documents 
+#### [2.4] Architecture and Design Documents 
 
 The architecture document in effect is formed once all the requirements have been collected and arranged. The document defines different components of the product and how they interact with each other.
  Further defining the technologies used to build the product. Whilst the documents are filled out and moulded around the project, the (project) team also needs to consider the timelines of the project. This refers to the target date when the product is required to be on the market.
@@ -90,19 +91,19 @@ Thereafter defining architecture, software components and their interfaces, the 
 
 Although the design document and architecture document could be viewed or merged into one fully fledged documentation to easier navigate and locate information based on the project and formulate all the information on a component in one space rather than separating said information, hence while although the architecture and design are seen as two separate levels, the design document is essentially just elaborating on the architecture level, adding a miniscule amount of information still pertaining to the component only rather than for instance describing more explaining said component.
 
-[2.5] Implementation and coding 
+#### [2.5] Implementation and coding 
 
 The Implementation and coding phase is initiated when software developers take the design documents and development tools (editors, compilers, debuggers etc.) and start writing software (Halvorsen 2017). 
 
 This is an erroneous process and usually the longest phase in the product life cycle. Each developer has to write their own code to a standard, whilst collaborating with other developers to ensure that different components can interoperate with each other.
 Subsequently this problematic issue may-be generally bypassed through using or outlining coding standards beforehand, ensuring that the written procedures are followed or abided by, thus enabling the code to be similar structurally and aesthetically. Furthermore, elaborating the reason for coding standards, during the project or product life cycle multiple people may modify files, therefore if people are not following the pre-set rules, this may easily break the whole compilation and building process. For instance, duplicate definitions of the same variables may cause problems, while similarly, if included files are not written properly, you can easily cause the creation of loops.
 
- [2.6] Testing and quality assurance
+ #### [2.6] Testing and quality assurance
 
 Subsequently once the implementation and coding stage is completed, the next phase in software development is to test said code to see whether it is functional and works to an exceptional standard meeting and assuring the quality. This may be initiated through managing the product life cycle and verifying that the software meets the defined quality standards or customer agreements (quality assurance), thereafter with regards to the testing aspect may be instigated during the production phase, concerned with finding ways of breaking software, coding in segments or pushing out versions of said application software are integral to ensure a more accurate test. 
 In addition, throughout testing the ideology behind it is to get a group of testers to observe what the software does and to report on the level of quality as well as any serious issues they encounter (under the assumption that the system is flawed and has copious amounts of bugs) (Qatestlab Blog 2005-2010).
 
-[2.7] Software release 
+#### [2.7] Software release 
 
 Before the subsequent marketing and selling of a software product it needs to be officially released. This essentially pertaining to the creation of a state of the software in a repository (a copy), ensuring that it has been tested for functionality, etc. A version number is assigned to the released software. After releasing the software, development may continue but will not impact or make any subsequent changes to the released software. 
 
@@ -110,16 +111,18 @@ The development is usually carried on in a new branch and it may contain new fea
 
 Usually incremental version numbers are assigned following a scheme of when the next release of the software is sent to market, whilst the change in version number depends on whether the new software contains a major change to the previous version or it contains bug fixes and enhancement to existing functionality. Releases are also important because they are typically compiled versions of a particular version of the code, and thus provide a stable set of binaries for testing, which could assist in mitigating vulnerabilities(In simpler terms the paragraphs above pertain to the updates and patches in software development after and before release).
 
-[2.8] Documentation 
+#### [2.8] Documentation 
+
 Reliable documentation in my opinion, is crucial throughout software development (life cycle). The presence of documentation should in principle help keep track of all aspects of an application and improve the quality of a software product. Furthermore, mainly focusing on development, maintenance and knowledge transfer to other developers (Trica 2017). Through the use of said documentation, information should be more easily accessible (information all gathered in one point or origin). 
 
 Inaccurate documentation is a fundamental cause pertaining to Vulnerabilities. Since a document is the congregation of information usually linking to all stages of a project, failure to update, properly maintain or the inclusion of faulty data can lead to Vulnerabilities occurring. An instance of documentation leading to vulnerabilities may be seen in particularly during the testing phase as erroneous results could be noted as fixed despite the problem re-occurring and still existing.
 
-[2.9] Support and New Features 
+#### [2.9] Support and New Features 
 
 This usually heralds after the development of software, though is still integral to the cycle as users of said developed software may need support after release. In addition, new features may be a factor or prerequisite with updates coming out to compete with competitors’ products that may have other features.Moreover, better support usually leads to better branding and devotion among user’s, creating or leading to the generation of a referral business.
 
-[2.10] Software Development Life Cycles 
+#### [2.10] Software Development Life Cycles 
+
 SDLC or the abbreviated term System Development Life Cycle is a term generally applied to system engineering, information systems and software engineering to describe the process for planning, creating, testing, and deploying an information system (Wikipedia 2018).
 
 This interconnects with software development as the numerous life cycle’s methodology’s define the procedure’s and show regulated development, portraying the process of the plan, creation and deployment of an information system.
@@ -128,7 +131,7 @@ Further once applied to the development of software acts as a formatted structur
 
 Examples of software development life cycles consist of; water fall method a sequential non-iterative design model, used in software development processes, Prototyping Model, Evolutionary Mode, etc. Further examples may be extracted from Alan (2017), as there are numerous other cycles, not covered in this report. 
 
-[3] Vulnerabilities Topic  
+#### [3] Vulnerabilities Topic  
 
 The topic of Software vulnerabilities pertains to the (weaknesses/flaws) faults that may be exploited within a given system, thereafter compromising the system itself. 
 
@@ -138,7 +141,7 @@ The knowledge of any given vulnerability in a system may give an attacker who is
 
 Vulnerabilities are essentially the intersection of three elements: a system susceptibility or flaw, attacker access to the flaw, and attacker capability to exploit the flaw (Jimenez et al. no date).
 
-[3.1] Examples of Vulnerabilities 
+#### [3.1] Examples of Vulnerabilities 
 
 Following the above documentation, under the heading “Vulnerabilities Topic”, listed with the numerical digit 3, below details a few frequent vulnerabilities (Jimenez et al. no date):
 
@@ -152,9 +155,9 @@ In continuation Buffer overflow could also lead to loss of control and gain (for
 
 	SQL injection: consists of injecting code with the intension of exploiting the content of a database. This usually happens because the inputs are not handled correctly, an attacker may retrieve or get sensitive information from the database (under attack).
 
-[4] Case Studies 
+#### [4] Case Studies 
 
-[4.1] Case Study:” goto fail” 2014 Apple 
+#### [4.1] Case Study:” goto fail” 2014 Apple 
 
 In 2014, Apple fixed a critical security vulnerability that was sought to be caused through the use of "cut and paste" during editing. The programmer embedded a duplicate line of code that caused the software to bypass a block of code that verifies the authenticity of access credentials (connections to secure sites could be spied on). The essence of the problem, though straight forward, led to invalid certificates being quietly accepted as valid (woody 2015).
 The vulnerability is described in the National Vulnerability Database cited by Ducklin (2014) as follows:
@@ -171,7 +174,7 @@ Further elaborating on the root cause of the problem the second (duplicate) “g
 
 In context, this meant that vital signature checking code was skipped, so all signatures regardless of authenticity were registered as acceptable. The extraneous “goto” caused the function to return 0 (“no error”) when the rest of the checking was skipped, as a result causing invalid certificates to be accepted and thus lead to what is now termed or coined as the "goto fail" incident (Wheeler 2017).
 
- [4.2] Case Study: 2017 Equifax Breach 
+ #### [4.2] Case Study: 2017 Equifax Breach 
  
 In 2017 Equifax experienced a breach in their systems resulting in the loss of sensitive data and personal records on 145 million Americans and hundreds of thousands in the UK and Canada. The extent and impact of such a breach, along with the information procured by attackers could have led to identity theft (impersonation), as seen in similar cases earlier experienced in 2017, known as "IRS FAFSA tool breach" (Qatestlab Blog 2005-2010). 
 
@@ -180,7 +183,7 @@ In simple terms apache struts was essentially used to develop their own software
 
 Moreover, the vulnerability was exploited over 2 months after a fix was made available. In addition, the company did not discover that its systems had been compromised for another 1.5 months. This series of failures demonstrates the significant weaknesses in Equifax’s security program during this time frame (Sethi 2017) (BBC News 2017) (Thomson 2018).
 
-[5] Mitigating Software Vulnerabilities 
+#### [5] Mitigating Software Vulnerabilities 
 
 Models are a first approach to deal with vulnerabilities and their understanding (putting in stronger controls and fleshing out the software better). However, it is necessary to count on methods or procedures to prevent any risks related to vulnerabilities.
 Further ways of mitigation is software inspection, this usually consists of reading or visually inspecting the program code or documents in order to find any defects and correct them early in the development process, though this generally relies on the ability of the person viewing the code (Simmons 2015). 
@@ -188,14 +191,15 @@ Further ways of mitigation is software inspection, this usually consists of read
 Security testing is also another integral method of finding vulnerabilities in a system, if the vulnerabilities make it all the way to a test environment, security testing tools and manual techniques may discover these types of issues (Leemon 2015).
 In regards to mitigating or preventing software vulnerabilities being exploited, that have occurred during the development of software but went unnoticed, consistent monitoring of applications for unusually activity may halt attacks, though not ideal in this phase, it is critical to have controls in the right place (National Cyber Security Centre 2016). 
 
-[6] Conclusion 
+#### [6] Conclusion 
 
 In conclusion forming an opinion on the basis  of the information presented above, concerning the case studies, in the Apple situation and Equifax state of affairs, during both occurrences the vulnerabilities presented and exploited by the alleged attackers could have been prevented and mitigated if the necessary cautions and procedures were put in place and followed, with the apple incident stemming from human negligence that could have been prevented if a proper software inspection took place , similarities can be seen with regards to the Equifax situation, where if the code was manually reviewed, steps could have been put in motion to mitigate said vulnerabilities that appeared.
 
 Through further analysis it may be seen that the response taken by Apple was optimal, though with regards to Equifax's response not all information regarding the attack was exposed and neither were there consistent monitorisation by their operation team as the exploitation of said vulnerability had occurred 1.5 months before the organisation had found out about the attack , showing that the operation team was not searching for unusual activity which could have led to the situation devolving before reaching the stage it did. Whilst it also took another 2 months to fix and roll out a patch.
 In my opinion, which is supported by research (Anton et al 2003) whilst the situation for both high profile organisations were eventually sorted with the vulnerabilities found in the condescending software being mitigated.  The foremost factor being whether these's vulnerabilities could have been mitigated earlier (during development), rather than only after release. Which based on factual evidence and methodologies used in the prevention of vulnerabilities, points to the decisive answer being certainly.
  
-[7] Bibliography 
+#### [7] Bibliography 
+
 •	Abrahamsson, P., Salo, P., Ronkainen, O. and Warsta, J. (2002). Agile Software Development Methods: Review an Analysis. VTT Publications. Available at: https://arxiv.org/ftp/arxiv/papers/1709/1709.08439.pdf  [Accessed on ????]
 
 •	Antón, Phillip., Anderson, Robert., Mesic, Richard., Scheiern, Michael. (2003)  Finding and Fixing Vulnerabilities in Information Systems. The Vulnerability, Assessment & Mitigation Methodology. Santa Monica: RAND.  
