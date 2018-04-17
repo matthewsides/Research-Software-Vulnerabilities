@@ -208,43 +208,43 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
  
 #### [7] Bibliography 
 
-•	Abrahamsson, P., Salo, P., Ronkainen, O. and Warsta, J. (2002). Agile Software Development Methods: Review an Analysis. VTT Publications. Available at: https://arxiv.org/ftp/arxiv/papers/1709/1709.08439.pdf  [Accessed on ????]
+•	Abrahamsson, P., Salo, P., Ronkainen, O. and Warsta, J. (2002). Agile Software Development Methods: Review an Analysis. VTT Publications. Available at: https://arxiv.org/ftp/arxiv/papers/1709/1709.08439.pdf  [Accessed on 26th Jan 2018]
 
 •	Antón, Phillip., Anderson, Robert., Mesic, Richard., Scheiern, Michael. (2003)  Finding and Fixing Vulnerabilities in Information Systems. The Vulnerability, Assessment & Mitigation Methodology. Santa Monica: RAND.  
 
-•	Allen, Paul.G School of Computer Engineering and Science. (2017). Software development lifecycle. Available at: https://courses.cs.washington.edu/courses/cse403/16sp/lectures/lecture-03-software-lifecycle.pdf [Accessed on:????] 
+•	Allen, Paul.G School of Computer Engineering and Science. (2017). Software development lifecycle. Available at: https://courses.cs.washington.edu/courses/cse403/16sp/lectures/lecture-03-software-lifecycle.pdf [Accessed on:26th Jan 2018] 
 
-•	BBC News. (2017). Equifax data hack affected 694,000 UK customers. Available at: http://www.bbc.co.uk/news/business-41575188 [Accessed  on:??????]
+•	BBC News. (2017). Equifax data hack affected 694,000 UK customers. Available at: http://www.bbc.co.uk/news/business-41575188 [Accessed  on:26th Jan 2018]
 
-•	Duckins, Paul. (2014). Anatomy of a “goto fail” – Apple’s SSL bug explained, plus an unofficial patch for OS X! Available at: https://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/ [Accessed on:????] 
+•	Duckins, Paul. (2014). Anatomy of a “goto fail” – Apple’s SSL bug explained, plus an unofficial patch for OS X! Available at: https://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/ [Accessed on: 28th Jan 2017] 
 
-•	Jimenez,W., Mammar, A., and Cavalli, A., (No date).   Software Vulnerabilities, Prevention and Detection Methods: A Review1. Available at: http://www-lor.int-evry.fr/~anna/files/sec-mda09.pdf [Accessed on:????]      
+•	Jimenez,W., Mammar, A., and Cavalli, A., (No date).   Software Vulnerabilities, Prevention and Detection Methods: A Review1. Available at: http://www-lor.int-evry.fr/~anna/files/sec-mda09.pdf [Accessed on: 28th Jan 2018]      
 
-•	Halvorsen, H-P. (2017). Software Development: A Practical Approach! Available at:  http://home.hit.no/~hansha/documents/software/software_development/resources/Software Development.pdf [Accessed on:????] 
+•	Halvorsen, H-P. (2017). Software Development: A Practical Approach! Available at:  http://home.hit.no/~hansha/documents/software/software_development/resources/Software Development.pdf [Accessed on: 28th Jan 2018] 
 
-•	Leemon, Alex. (2015). 5 IT BEST PRACTICES THAT ALSO MITIGATE CYBER SECURITY VULNERABILITIES IN OT. Available at: https://www.cyberark.com/blog/5-it-best-practices-that-also-mitigate-cyber-security-vulnerabilities-in-ot  [ Accessed on: ????] 
+•	Leemon, Alex. (2015). 5 IT BEST PRACTICES THAT ALSO MITIGATE CYBER SECURITY VULNERABILITIES IN OT. Available at: https://www.cyberark.com/blog/5-it-best-practices-that-also-mitigate-cyber-security-vulnerabilities-in-ot  [ Accessed on: 2nd Feb 2018] 
 
-•	National Cyber Security Centre. (2016). Common cyber attacks: reducing the impact. Available at: https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/common_cyber_attacks_ncsc.pdf {Accessed on: ????] 
+•	National Cyber Security Centre. (2016). Common cyber attacks: reducing the impact. Available at: https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/common_cyber_attacks_ncsc.pdf {Accessed on: 2nd Feb 2018] 
 
-•	Qatestlab Blog (2005-2010). Browser Update. Available at: http://blog.qatestlab.com/2011/04/07/what-is-the-difference-between-qa-and-testing/ [Accessed on:????] (blog.qatestlab)Rappeport, A. (2017). Up to 100,000 Taxpayers Compromised in Fafsa Tool Breach, I.R.S. Says. The New York Times. Available at: https://www.nytimes.com/2017/04/06/us/politics/internal-revenue-service-breach-taxpayer-data.html [Accessed on: ???] 
+•	Qatestlab Blog (2005-2010). Browser Update. Available at: http://blog.qatestlab.com/2011/04/07/what-is-the-difference-between-qa-and-testing/ [Accessed on: 2nd Feb 2018] (blog.qatestlab)Rappeport, A. (2017). Up to 100,000 Taxpayers Compromised in Fafsa Tool Breach, I.R.S. Says. The New York Times. Available at: https://www.nytimes.com/2017/04/06/us/politics/internal-revenue-service-breach-taxpayer-data.html [Accessed on: 3rd Feb 2018] 
 
-•	Thomson, Iain. (2018). Equifax hack worse than previously thought: Biz kissed goodbye to card expiry dates, tax IDs etc. Available at: https://www.theregister.co.uk/2018/02/13/equifax_security_breach_bad/  [Accessed on: ????]  
+•	Thomson, Iain. (2018). Equifax hack worse than previously thought: Biz kissed goodbye to card expiry dates, tax IDs etc. Available at: https://www.theregister.co.uk/2018/02/13/equifax_security_breach_bad/  [Accessed on: 7th Feb 2018]  
 
-•	Sethi, Ami. (2017). What can your firm learn from the unfolding Equifax hack? Available at: https://www.synopsys.com/blogs/software-security/security-breach-prevention-tips/ [Accessed on:????} 
+•	Sethi, Ami. (2017). What can your firm learn from the unfolding Equifax hack? Available at: https://www.synopsys.com/blogs/software-security/security-breach-prevention-tips/ [Accessed on:7th Feb 2018} 
 
-•	Sethi, Amit. (2017). Top security breaches of 2017 (+2018 cyber security predictions). Available at: https://www.synopsys.com/blogs/software-security/top-data-security-breaches-2017/ [Accessed on: ????] 
+•	Sethi, Amit. (2017). Top security breaches of 2017 (+2018 cyber security predictions). Available at: https://www.synopsys.com/blogs/software-security/top-data-security-breaches-2017/ [Accessed on: 2nd Feb 2018] 
 
-•	Simmons, Rod. (2015). 4 Steps to Mitigate 95% of Known Vulnerabilities. Available at: http://www.itprotoday.com/security/4-steps-mitigate-95-known-vulnerabilities [Accessed on: ???] 
+•	Simmons, Rod. (2015). 4 Steps to Mitigate 95% of Known Vulnerabilities. Available at: http://www.itprotoday.com/security/4-steps-mitigate-95-known-vulnerabilities [Accessed on: 28th Jan 2018] 
 
-•	Trica, Alex. (2017). The Importance of Documentation in Software Development.  Available at: https://filtered.com/blog/post/project-management/the-importance-of-documentation-in-software-development [Accessed on: ????]  
+•	Trica, Alex. (2017). The Importance of Documentation in Software Development.  Available at: https://filtered.com/blog/post/project-management/the-importance-of-documentation-in-software-development [Accessed on: 28th Jan 2018]  
 
-•	Wheeler. David. (2017). The Apple goto fail vulnerability: lessons learned . Available at: https://www.dwheeler.com/essays/apple-goto-fail.html [Accessed on: ?????]  
+•	Wheeler. David. (2017). The Apple goto fail vulnerability: lessons learned . Available at: https://www.dwheeler.com/essays/apple-goto-fail.html [Accessed on: 5th Feb 2018]  
 
-•	Wilkipedia (2018). Systems development life cycle. Available at: https://en.wikipedia.org/wiki/Systems_development_life_cycle [Accessed on: ?????] 
+•	Wilkipedia (2018). Systems development life cycle. Available at: https://en.wikipedia.org/wiki/Systems_development_life_cycle [Accessed on:  27th Jan 2018] 
 
-•	Woody, Carol. and Nichols, Bill. (2015). Heartbleed and Goto Fail: Two Case Studies for Predicting Software Assurance Using Quality and Reliability Measures. Available at: https://insights.sei.cmu.edu/sei_blog/2015/04/heartbleed-and-goto-fail-two-case-studies-for-predicting-software-assurance-using-quality-and-reliab.html [Accessed on: ????] 
+•	Woody, Carol. and Nichols, Bill. (2015). Heartbleed and Goto Fail: Two Case Studies for Predicting Software Assurance Using Quality and Reliability Measures. Available at: https://insights.sei.cmu.edu/sei_blog/2015/04/heartbleed-and-goto-fail-two-case-studies-for-predicting-software-assurance-using-quality-and-reliab.html [Accessed on: 5th Feb 2018] 
 
-•	Ur Rehman, R., Paul, C. (2002). The Linux Development Platform: Introduction to Software Development Chapter 1. Available at: http://catalogue.pearsoned.co.uk/samplechapter/0130091154.pdf   
+•	Ur Rehman, R., Paul, C. (2002). The Linux Development Platform: Introduction to Software Development Chapter 1. Available at: http://catalogue.pearsoned.co.uk/samplechapter/0130091154.pdf [Accessed on: 6th Feb 2018] 
 
 
 
@@ -266,7 +266,8 @@ This report details information on an investigation and gathering of primary res
 	Do the two groups of conglomerates (ICT students and non ICT students) know why vulnerabilities may occur in a system?
 
 Furthermore a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst detail as to how the study was brought forth and carried out is also mentioned in the following document. 
-The deductions documented or detailed below are based on data gathered and congregated (assembled) into information, therefore solidifying the points brought across in the below document.
+
+The deductions documented or detailed below are based on data that has been reviewed, modified, deleted and replaced using a technique known as data cleansing. Data cleansing refers to the proccess of replacing, modifying, or deleting coarse data, emphasising the mitigation of inconsistencies  ensuring a consistent data set. The data gathered was then congregated (assembled) into information, therefore solidifying the points brought across in the below document.
 
 Moreover  it appears that  part of  the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
 
