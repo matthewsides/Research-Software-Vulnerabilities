@@ -291,3 +291,5 @@ In continuation to the points covered above based on the statistics and facts it
 
 Whilst other common occurrences seemed to be lack of monitoring and manual reading of code, all common flaws that organisations are usually exploited by as seen and covered in the secondary research report and case studies gotofail (Apple Breach) and Equifax (Breach). Where vulnerabilities were seemly caused by Human error; in the case of the gotofail vulnerability it was stated to have occurred due to negligence not reviewing the code thus leading to a duplication of a line being left in with a missing parenthesis. Equifax’s vulnerabilities seemed to have occurred due to software faults used for or during development and lack of monitoring , though the impact or outcome could have been mitigated or reduced based on whether the proper monitoring and procedures were put in place. Thus supporting the idea and fronting that the majority of people know the reasons behind vulnerabilities in software or systems (the comparative analysis between data and real life situations substantiate this).
 
+
+#### Recommendations
