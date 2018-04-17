@@ -259,11 +259,11 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
 
 This report details information on an investigation and gathering of primary research to see whether the information would support an ongoing study relating to whether; 
 
-	They aware of the issues of vulnerabilities?
+ Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
 
-	People are aware of possible ways to mitigate vulnerabilities?
+	Are ICT students or non ICT students aware of possible ways to mitigate vulnerabilities?
 
-	People know why vulnerabilities may occur in a system?
+	Do the two groups of conglomerates (ICT students and non ICT students) know why vulnerabilities may occur in a system?
 
 Furthermore a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst detail as to how the study was brought forth and carried out is also mentioned in the following document. 
 The deductions documented or detailed below are based on data gathered and congregated (assembled) into information, therefore solidifying the points brought across in the below document.
