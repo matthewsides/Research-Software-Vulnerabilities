@@ -6,8 +6,6 @@
 
 [2] Primary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
-[3] Reflection
-
 ### [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment
 
 Matthew Sides
@@ -253,8 +251,19 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
 
 ### Secondary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
+#### Table of Contents
 
-#### Introduction
+[1] Introduction
+
+[2] Primary Research Plan 
+
+[3] Analysis 
+
+[4] Conclusion
+
+[5] Self-Reflection
+
+#### [1] Introduction
 
 This report details information on an investigation and gathering of primary research to see whether the information would support an ongoing study relating to whether; 
 
@@ -272,7 +281,7 @@ The data gathered  was Collated on excel spreadsheet, then stored through creati
 
 Moreover  it appears that  part of  the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
 
-#### Primary Research Plan 
+#### [2] Primary Research Plan 
 
 The ground work for the primary research was essentially covered through the application of a pre-formulated survey basing questions around information covered and pertained in the secondary research carried out prior. 
 
@@ -286,7 +295,7 @@ Following said practical use of Simple random sampling another method used durin
 
 The information gathered was both qualitative and quantitative, with quantitative research methods or designs such as Descriptive Design being applied,where a hypothesis is not formed until the data is collected. Whilst the application of both Haphazard sampling and simple random sampling is a quantative and qualitative method, emphasising both written and numerical data (the use expanded upon in the above sections).
 
-#### Analysis 
+#### [3] Analysis 
 
 Through thorough analysis of the information (portrayed in a graph) retrieved and formed based on the congregation of data, it may be seen that the majority of those surveyed understand what a Vulnerability is, however when enquired if they understood the issues of vulnerabilities there was  a mixed  response, with seven out of the twenty stating that they do not understand the issues (Issues, meaning what would happen if left unchecked) of vulnerabilities, though one of the surveyees answers were deemed invalid based on in accurate findings retrieved, whilst another was unsure as to the intention  of the question and thus left it blank. This only furthers the idea that due to the incapability of answering that it is likely that the surveyee did not understand the issues.
 
@@ -297,7 +306,7 @@ In continuation to the points covered above based on the statistics and facts it
 Whilst other common occurrences seemed to be lack of monitoring and manual reading of code, all common flaws that organisations are usually exploited by as seen and covered in the secondary research report and case studies gotofail (Apple Breach) and Equifax (Breach). Where vulnerabilities were seemly caused by Human error; in the case of the gotofail vulnerability it was stated to have occurred due to negligence not reviewing the code thus leading to a duplication of a line being left in with a missing parenthesis. Equifax’s vulnerabilities seemed to have occurred due to software faults used for or during development and lack of monitoring , though the impact or outcome could have been mitigated or reduced based on whether the proper monitoring and procedures were put in place. Thus supporting the idea and fronting that the majority of people know the reasons behind vulnerabilities in software or systems (the comparative analysis between data and real life situations substantiate this).
 
 
-#### Conclusion
+#### [4] Conclusion
 
 In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
 
@@ -306,7 +315,7 @@ Further taking into consideration the feedback gathered from surveyees, (primary
 The concluding recommendation's would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.Along with Model checking a technique which tests if the model of a system meets its specification and it can be used to detect vulnerabilities.
 
 
-### Self-Reflection
+#### [5] Self-Reflection
 
 The value of undertaking this research to meet stated objectives and own learning performance is great, this is primary due to the self- reflection that occurs after the research has already been carried out, thus presenting the opportunity to evaluate what went well, what went wrong, what could have been done to attain a more favourable outcome and essentially improve or learn from the mistakes made during this research project. In relation to meeting stated objectives the research enables important querys to be answered with meaningful conclusions drawn and applied in other projects.
 
