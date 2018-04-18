@@ -4,7 +4,7 @@
 
 [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment (Secondary Research)
 
-[2] Secondary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
+[2] Primary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
 [3] Reflection
 
