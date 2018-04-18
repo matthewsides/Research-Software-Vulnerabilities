@@ -282,7 +282,7 @@ Further delving into the factors and reason behind the high number of ICT studen
 
 Following said practical use of Simple random sampling another method used during the design and presentation of the survey was a non-probability method known as haphazard sample, heralding similarities to the simple random research method, but ultimately SRS is a probability method. This was used to meet time scales as Haphazard sampling essentially entails choosing people based on their relative ease of access, though this was not necessary disadvantageous as it furthered the group/age range as to who was covered , making it more plausible and enabling for an output of a more broader view when answering the pre-listed queries in this documentation.  
 
-The information gathered was both qualitative and quantitative, with quantitative research methods or designs such as Descriptive Design being applied,where a hypothesis is not formed until the data is collected. Whilst the application of simple random sampling is a quantative and qualitative method, emphasing both the numerical and liturature  data
+The information gathered was both qualitative and quantitative, with quantitative research methods or designs such as Descriptive Design being applied,where a hypothesis is not formed until the data is collected. Whilst the application of both Haphazard sampling and simple random sampling is a quantative and qualitative method, emphasising both written and numerical data (the use expanded upon in the above sections).
 
 #### Analysis 
 
