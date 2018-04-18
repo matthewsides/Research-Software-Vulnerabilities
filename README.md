@@ -332,7 +332,7 @@ In self reflectance in regards to any future research carried out inconjunction 
 
 In continuation with the point that the questions were too protracted, the use of tick boxes along with pre-set answers would have covered this as those surveyed would probaly feel more abliged and bothered to give a more accurate answer. This would lessen the time taken to complete the form with clear and concise answers, which would give a more precise reading and be benifical for both the surveyor and surveyee.
 
-With regards to other areas of improvement or complications encountered during this research project, the seperation of data and 
+With regards to other areas of improvement or complications encountered during this research project, would be to better plan or the following of a model. Essentially due to the contraints in time the research was not planned or implemented properly, thus leading  to inconsistencies and problems with the data and querys that required answering. Therefore it is suggested or reccomended that for fututre reference time is spared for the management plan and a schedule kept to ensure that times are met.  
 
 Whilst the positives that may be conferred from this project consist of 
 
