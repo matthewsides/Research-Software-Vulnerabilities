@@ -334,7 +334,7 @@ In continuation with the point that the questions were too protracted, the use o
 
 With regards to other areas of improvement or complications encountered during this research project, would be to better plan or the following of a model. Essentially due to the contraints in time the research was not planned or implemented properly, thus leading  to inconsistencies and problems with the data and querys that required answering. Therefore it is suggested or reccomended that for fututre reference time is spared for the management plan and a schedule kept to ensure that times are met.  
 
-Whilst the positives that may be conferred from this project consist of 
+Whilst the positives that may be conferred from this project consist of the experience attained, along with the conclusions made and inferred, thus giving valuable information pertaining to what should be done in order to ensure vulnerabilities and security breaches do not appear in a software application or system. This information may be referenced continuously throughout future projects. 
 
 
 
