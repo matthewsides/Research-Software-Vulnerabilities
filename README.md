@@ -194,9 +194,11 @@ Moreover, the vulnerability was exploited over 2 months after a fix was made ava
 #### [5] Mitigating Software Vulnerabilities 
 
 Models are a first approach to deal with vulnerabilities and their understanding (putting in stronger controls and fleshing out the software better). However, it is necessary to count on methods or procedures to prevent any risks related to vulnerabilities.
+
 Further ways of mitigation is software inspection, this usually consists of reading or visually inspecting the program code or documents in order to find any defects and correct them early in the development process, though this generally relies on the ability of the person viewing the code (Simmons 2015). 
 
 Security testing is also another integral method of finding vulnerabilities in a system, if the vulnerabilities make it all the way to a test environment, security testing tools and manual techniques may discover these types of issues (Leemon 2015).
+
 In regards to mitigating or preventing software vulnerabilities being exploited, that have occurred during the development of software but went unnoticed, consistent monitoring of applications for unusually activity may halt attacks, though not ideal in this phase, it is critical to have controls in the right place (National Cyber Security Centre 2016). 
 
 #### [6] Conclusion 
@@ -296,14 +298,16 @@ Whilst other common occurrences seemed to be lack of monitoring and manual readi
 
 #### Conclusion
 
-In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
+Inconclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
 
 
 Further taking into consideration the feedback gathered from surveyees, (primary research) in addition to the case studies and software development stages covered in the secondary research, monitoring along with the  inclusion of versions is suggested to be premeditated and if possible implemented. The reason for self regulation or monitoring is to ensure that any unusual activity is catalogued, thus preventing the issue from getting out of hand as a patch may be avaliable with those responsible or involved being delegated punishments.  Whilst the addition of versions essentially allows the for user feedback,branching upon the idea of updates, which would ensure that the software is compatable with the latest system, with the user feedback proving viable when implementing theses updates as the feedback recieved may point to bugs previously missed, thus ensuring the software quality upon release and removing exploits.   
 
+The concluding recommendation would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.With this structural basis or method 
 
 
-The 
+
+### Self-Reflection
 
 With regards to mitigation of vulnerabilities
 
