@@ -2,15 +2,13 @@
 
 #### Table of Contents
 
-[1] Software Vulnerabilities, Prevention and Reduction (Secondary Research)
+[1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment (Secondary Research)
 
-[2]
+[2] Secondary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
+[3] Reflection
 
-
-### [1] Software Vulnerabilities, Prevention and Reduction 
-
-Methods: Assessment
+### [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment
 
 Matthew Sides
 
@@ -253,8 +251,7 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
 
 
 
-### Secondary Research Vulnerabilities; formulation,
- ###    Comparison and analysis; Conclusion
+### Secondary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
 
 #### Introduction
