@@ -266,7 +266,9 @@ This report details information on an investigation and gathering of primary res
 
 Furthermore a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst detail as to how the study was brought forth and carried out is also mentioned in the following document. 
 
-The deductions documented or detailed below are based on data that has been reviewed, modified, deleted and replaced using a technique known as data cleansing. Data cleansing refers to the proccess of replacing, modifying, or deleting coarse data, emphasising the mitigation of inconsistencies  ensuring a consistent data set. The data gathered was then congregated (assembled) into information, therefore solidifying the points brought across in the below document.
+The deductions documented or detailed below are based on data that has been reviewed, modified, deleted and replaced using a technique known as data cleansing. Data cleansing refers to the proccess of replacing, modifying, or deleting coarse data, emphasising the mitigation of inconsistencies  ensuring a consistent data set. 
+
+The data gathered  was Collated on excel spreadsheet, then stored through creating the table tool to better structure the data and make it easier to interpret.Graphs were also used to better illustrate the data for anylasis to check for correlations, trends, comparisions,etc. The data stored within excel tables and graphs, congregated  (assembled) into information, therefore solidifying the points brought across in the below document.
 
 Moreover  it appears that  part of  the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
 
