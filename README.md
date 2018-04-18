@@ -251,6 +251,16 @@ In my opinion, which is supported by research (Anton et al 2003) whilst the situ
 
 ### Secondary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion 
 
+Matthew Sides
+
+West Herts College, Watford 
+
+Hertfordshire, England
+
+Last Update: 25/02/2018
+
+18/04/2018
+ 
 #### Table of Contents
 
 [1] Introduction
@@ -308,12 +318,11 @@ Whilst other common occurrences seemed to be lack of monitoring and manual readi
 
 #### [4] Conclusion
 
-In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
+In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. The use of testing (security testing, functional, etc.) would also prevent similiar occurences to those seen in the apple case study as the functions and security would be reviewed before release or use. 
 
 Further taking into consideration the feedback gathered from surveyees, (primary research) in addition to the case studies and software development stages covered in the secondary research, monitoring along with the  inclusion of versions is suggested to be premeditated and if possible implemented. The reason for self regulation or monitoring is to ensure that any unusual activity is catalogued, thus preventing the issue from getting out of hand as a patch may be avaliable with those responsible or involved being delegated punishments.  Whilst the addition of versions essentially allows the for user feedback,branching upon the idea of updates, which would ensure that the software is compatable with the latest system, with the user feedback proving viable when implementing theses updates as the feedback recieved may point to bugs previously missed, thus ensuring the software quality upon release and removing exploits.   
 
-The concluding recommendation's would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.Along with Model checking a technique which tests if the model of a system meets its specification and it can be used to detect vulnerabilities.
-
+The concluding recommendation's would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.Along with Model checking a technique which tests if the model of a system meets its specification and it can be used to detect vulnerabilities. The underlying reason for this recomendation is due to the the  lack of understanding of mitigation from those surveyed . Through using models as long as the model is followed there is a higher chance of preventing or finding vulnerabilities, despite a lack of knowledge.
 
 #### [5] Self-Reflection
 
