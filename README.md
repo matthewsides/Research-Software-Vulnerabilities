@@ -295,9 +295,16 @@ Whilst other common occurrences seemed to be lack of monitoring and manual readi
 
 #### Conclusion
 
+In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered and tested.
+
+
 The 
 
-With regards to 
+With regards to mitigation of vulnerabilities
+
+recommend on any future 
+
+any probable projects 
 
 
 reflect on value of learning and research
