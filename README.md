@@ -270,7 +270,7 @@ The deductions documented or detailed below are based on data that has been revi
 
 Moreover  it appears that  part of  the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
 
-#### Primary Research Plan
+#### Primary Research Plan 
 
 The ground work for the primary research was essentially covered through the application of a pre-formulated survey basing questions around information covered and pertained in the secondary research carried out prior. 
 
@@ -281,6 +281,8 @@ The principle reason behind the use of said technique was to essentially cover a
 Further delving into the factors and reason behind the high number of ICT students that took the survey, this can be seen to stem from the fact that all the ICT department is based on the same floor therefore it is no surprise that the majority of the data gathered is from said students and is in fact beneficial to the questions imposed above.
 
 Following said practical use of Simple random sampling another method used during the design and presentation of the survey was a non-probability method known as haphazard sample, heralding similarities to the simple random research method, but ultimately SRS is a probability method. This was used to meet time scales as Haphazard sampling essentially entails choosing people based on their relative ease of access, though this was not necessary disadvantageous as it furthered the group/age range as to who was covered , making it more plausible and enabling for an output of a more broader view when answering the pre-listed queries in this documentation.  
+
+The information gathered was both qualitative and quantitative, with quantitative research methods or designs such as Descriptive Design being applied,where a hypothesis is not formed until the data is collected. Whilst the application of simple random sampling is a quantative and qualitative method, emphasing both the numerical and liturature  data
 
 #### Analysis 
 
