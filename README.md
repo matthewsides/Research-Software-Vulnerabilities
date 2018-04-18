@@ -302,9 +302,9 @@ Further taking into consideration the feedback gathered from surveyees, (primary
 The concluding recommendation's would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.Along with Model checking a technique which tests if the model of a system meets its specification and it can be used to detect vulnerabilities.
 
 
-
-
 ### Self-Reflection
+
+The value of undertaking this research to meet stated objectives and own learning performance is great, this is primary due to the self- reflection that occurs after the research has already been carried out, thus presenting the opportunity to evaluate what went wrong, what could have been done to attain a more favourable outcome and essentially improve or learn from the mistakes made during this research project. In relation to meeting stated objectives the research enables important querys to be answered with meaningful conclusions drawn and applied in other projects.
 
 In self reflectance in regards to any future research carried out inconjunction to any probable projects, it would be best to better articulate the questions, considering the use of versions getting people to fill out forms during a data run, then asking questions as to whether they thought the questions were adequate. This would then enable alteracations to take place if necessary. This is integral due to the predicament encountered during this research project where certain questions were misconstrued or the lengthiness of the questions left those surveyed unwilling to anwser.
 
@@ -318,11 +318,7 @@ The research carried out however carrying out research in conjunction to any fut
 
 
 
-With regards to mitigation of vulnerabilities
 
-recommend on any future 
-
-any probable projects 
 
 
 reflect on value of learning and research
