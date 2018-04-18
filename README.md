@@ -295,7 +295,7 @@ Whilst other common occurrences seemed to be lack of monitoring and manual readi
 
 #### Conclusion
 
-Inconclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
+In conclusion ascertaining prospective proposals, through the analysis of all the data congregated during both the second and primary research. In paticular using the case studies it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate through testing during and after development. This would essentially lessen the amount of exploits within the system since all factors have been considered, tested and fixed either before the software has been ushered out or after through updates. 
 
 Further taking into consideration the feedback gathered from surveyees, (primary research) in addition to the case studies and software development stages covered in the secondary research, monitoring along with the  inclusion of versions is suggested to be premeditated and if possible implemented. The reason for self regulation or monitoring is to ensure that any unusual activity is catalogued, thus preventing the issue from getting out of hand as a patch may be avaliable with those responsible or involved being delegated punishments.  Whilst the addition of versions essentially allows the for user feedback,branching upon the idea of updates, which would ensure that the software is compatable with the latest system, with the user feedback proving viable when implementing theses updates as the feedback recieved may point to bugs previously missed, thus ensuring the software quality upon release and removing exploits.   
 
@@ -304,7 +304,7 @@ The concluding recommendation's would be to use a model to alleviate or lesson t
 
 ### Self-Reflection
 
-The value of undertaking this research to meet stated objectives and own learning performance is great, this is primary due to the self- reflection that occurs after the research has already been carried out, thus presenting the opportunity to evaluate what went wrong, what could have been done to attain a more favourable outcome and essentially improve or learn from the mistakes made during this research project. In relation to meeting stated objectives the research enables important querys to be answered with meaningful conclusions drawn and applied in other projects.
+The value of undertaking this research to meet stated objectives and own learning performance is great, this is primary due to the self- reflection that occurs after the research has already been carried out, thus presenting the opportunity to evaluate what went well, what went wrong, what could have been done to attain a more favourable outcome and essentially improve or learn from the mistakes made during this research project. In relation to meeting stated objectives the research enables important querys to be answered with meaningful conclusions drawn and applied in other projects.
 
 In self reflectance in regards to any future research carried out inconjunction to any probable projects, it would be best to better articulate the questions, considering the use of versions getting people to fill out forms during a data run, then asking questions as to whether they thought the questions were adequate. This would then enable alteracations to take place if necessary. This is integral due to the predicament encountered during this research project where certain questions were misconstrued or the lengthiness of the questions left those surveyed unwilling to anwser.
 
@@ -317,7 +317,8 @@ In conclusion the value of undertaking this research project to meet stated obje
 The research carried out however carrying out research in conjunction to any future probable projects
 
 
-
+add qualitative and quantative wording
+data held in tables and graphs
 
 
 
