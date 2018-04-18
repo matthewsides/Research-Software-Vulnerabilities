@@ -303,11 +303,16 @@ Inconclusion ascertaining prospective proposals, through the analysis of all the
 
 Further taking into consideration the feedback gathered from surveyees, (primary research) in addition to the case studies and software development stages covered in the secondary research, monitoring along with the  inclusion of versions is suggested to be premeditated and if possible implemented. The reason for self regulation or monitoring is to ensure that any unusual activity is catalogued, thus preventing the issue from getting out of hand as a patch may be avaliable with those responsible or involved being delegated punishments.  Whilst the addition of versions essentially allows the for user feedback,branching upon the idea of updates, which would ensure that the software is compatable with the latest system, with the user feedback proving viable when implementing theses updates as the feedback recieved may point to bugs previously missed, thus ensuring the software quality upon release and removing exploits.   
 
-The concluding recommendation would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.With this structural basis or method 
+The concluding recommendation's would be to use a model to alleviate or lesson the likelyhood of vulnerabilities. This would essentially  put in stronger controls and flesh out the software better.Along with Model checking a technique which tests if the model of a system meets its specification and it can be used to detect vulnerabilities.
+
 
 
 
 ### Self-Reflection
+
+The research carried out however carrying out research in conjunction to any future probable projects
+
+
 
 With regards to mitigation of vulnerabilities
 
