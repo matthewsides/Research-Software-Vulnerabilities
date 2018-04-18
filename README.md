@@ -310,9 +310,13 @@ The concluding recommendation's would be to use a model to alleviate or lesson t
 
 ### Self-Reflection
 
-In self reflectance in regards to any future research carried out inconjunction to any probable projects, it would be best to better articulate the questions, considering the use of versions getting people to fill out forms during a data run, then asking questions as to whether they thought the questions were adequate. This would then enable alteracations to take place if necessary. This is integral due to what the predicament encountered during this research project where certain questions were misconstrued or the lengthiness of the questions left those surveyed unwilling to anwser.
+In self reflectance in regards to any future research carried out inconjunction to any probable projects, it would be best to better articulate the questions, considering the use of versions getting people to fill out forms during a data run, then asking questions as to whether they thought the questions were adequate. This would then enable alteracations to take place if necessary. This is integral due to the predicament encountered during this research project where certain questions were misconstrued or the lengthiness of the questions left those surveyed unwilling to anwser.
 
 In continuation with the point that the questions were too protracted, the use of tick boxes along with pre-set answers would have covered this as those surveyed would probaly feel more abliged and bothered to give a more accurate answer. This would lessen the time taken to complete the form with clear and concise answers, which would give a more precise reading and be benifical for both the surveyor and surveyee.
+
+With regards to other complications encountered during this research project, the seperation of data and 
+
+In conclusion the value of undertaking this research project to meet stated objectives and own learning and performance is great.This is 
 
 The research carried out however carrying out research in conjunction to any future probable projects
 
