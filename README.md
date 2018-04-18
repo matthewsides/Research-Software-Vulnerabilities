@@ -323,18 +323,9 @@ In self reflectance in regards to any future research carried out inconjunction 
 
 In continuation with the point that the questions were too protracted, the use of tick boxes along with pre-set answers would have covered this as those surveyed would probaly feel more abliged and bothered to give a more accurate answer. This would lessen the time taken to complete the form with clear and concise answers, which would give a more precise reading and be benifical for both the surveyor and surveyee.
 
-With regards to other complications encountered during this research project, the seperation of data and 
+With regards to other areas of improvement or complications encountered during this research project, the seperation of data and 
 
-In conclusion the value of undertaking this research project to meet stated objectives and own learning and performance is great.This is 
-
-The research carried out however carrying out research in conjunction to any future probable projects
+Whilst the positives that may be conferred from this project consist of 
 
 
-add qualitative and quantative wording
-data held in tables and graphs
-
-
-
-reflect on value of learning and research
-Communicate appropriate recommendations as a result of research and data analysis to draw valid and meaningful conclusions.
 
