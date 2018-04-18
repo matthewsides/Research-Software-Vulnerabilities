@@ -45,7 +45,7 @@ Mitigation, Testing, Detection and Prevention
 
 [7] Bibliography 
 
-[1] Introduction 
+#### [1] Introduction 
 
 This documentation pertains to the reduction of software vulnerabilities during development, further delving into the subject or topics of what software development (this includes Software-Development-Life-Cycles | SDLC) and vulnerabilities are, defining and suggesting possible solutions to said vulnerabilities during development, using case studies as illustrations and to portray the risks that herald with not mitigating vulnerabilities properly. 
 Thereafter concluding the various ways in which to resolve (fix) and reduce vulnerabilities encountered during the development or finished production of a system, covering a self-opinionated view and lightly addressing the issues usually encountered, re-defining software development and vulnerabilities to better bring the final point across (use as a reminder).
