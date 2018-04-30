@@ -277,11 +277,11 @@ Last Update: 25/02/2018
 
 This report details information on an investigation and gathering of primary research to see whether the information would support an ongoing study relating to whether; 
 
-	• Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
+• Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
 
-	•	Are ICT students or non ICT students aware of possible ways to mitigate vulnerabilities?
+• Are ICT students or non ICT students aware of possible ways to mitigate vulnerabilities?
 
-	•	Do the two groups of conglomerates (ICT students and non ICT students) know why vulnerabilities may occur in a system?
+• Do the two groups of conglomerates (ICT students and non ICT students) know why vulnerabilities may occur in a system?
 
 Furthermore a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst detail as to how the study was brought forth and carried out is also mentioned in the following document. 
 
