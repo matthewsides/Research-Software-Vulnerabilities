@@ -1,11 +1,12 @@
-## Research-Software-Vulnerabilities
+# Research-Software-Vulnerabilities
 
-#### Table of Contents
+### Table of Contents
 
 [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment (Secondary Research)
+
 [2] Primary Research Vulnerabilities; formulation, Comparison and Analysis; Conclusion (Primary Research)
 
-### [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment
+## [1] Software Vulnerabilities, Prevention and Reduction Methods: Assessment
 
 Matthew Sides
 
@@ -23,7 +24,7 @@ Through analysis and deduction, this report explores information based on the to
 
 Keywords: Software Development, Vulnerabilities - Mitigation, Testing, Detection and Prevention
 
-Table of Contents
+### Table of Contents
 
 [1] Introduction
 
@@ -39,11 +40,11 @@ Table of Contents
 
 [7] Bibliography
 
-[1] Introduction
+### [1] Introduction
 
 This documentation pertains to the reduction of software vulnerabilities during development, further delving into the subject or topics of what is software development (this includes Software-Development-Life-Cycles | SDLC) and what are vulnerabilities. Consequently, defining and suggesting possible solutions to these vulnerabilities during development, using case studies as illustrations and to portray the risks that herald with not mitigating vulnerabilities effectively. Thereafter concluding with the various ways in which to resolve (fix) and reduce vulnerabilities encountered during the development or finished production of a system. This will include a self-opinionated view, whilst lightly addressing the issues usually encountered when re-defining software development and vulnerabilities to better bring the final point across (use as a reminder). Add link to aims and objectives
 
-[2] Software Development
+### [2] Software Development
 
 Software development is a meticulous and complex process for developing software and is comprised of numerous stages. In addition to the development and planning process, each stage generally requires documentation to be generated, this is in contrast to what is commonly known or how software development is usually portrayed in media (Jimenez et al. No date). A software development project must at least entail the following stages (though not constrained to the below list), a view supported by Abrahamsson et al. (2002):
 
@@ -65,57 +66,95 @@ VIII. Documentation
 
 IX. Support and new features
 
-[2.1] Client Brief
+#### [2.1] Client Brief
 
 This phase of development relates to the act of acquiring a brief from a perspective client that details or defines the client’s requirements for the build asset. With regards to Vulnerabilities during this phase, it is not conceivable for vulnerabilities to appear due to the lack of development of a physical or theoretical build. However, misinterpretation of the client’s requirements, along with a deficient description of prerequisites or implausible client goals, could lead to vulnerabilities appearing at a later stage of development.
 
-[2.2] Requirement Gathering
+#### [2.2] Requirement Gathering
 
 In my view, requirement gathering is the act of clarifying and ascertaining further detailed information based on the brief already provided by the client, concerning the reason for engagement and said “goals and achievements” that the client expects from the company. This usually includes clients analysing their market requirements and features in demand, to see whether there is an actual need for the software that is being developed within the current market.
 
 A comprehensive understanding of the customers’ needs and compiling features of the proposed software product are the keys to success in this phase. Ur Rehman (2001) agrees, that this phase is fundamentally the foundation or base for a project. Failure to uphold or properly document the client’s requirements could lead to a monumental catastrophe, with either the project failing to come together or the project veering off in a different track to the client’s direction and vision for the project, which in turn will mean that the client’s standards and expectation may not be met.
 
-[2.3] Writing Functional Specifications
+#### [2.3] Writing Functional Specifications
 
 Following the requirement gathering stage, a review should take place to determine whether the agreed pre-defined or set requirements given by the client are plausible and achievable. Subsequently then it should be determined how and what needs to be implemented to achieve the agreed specifications (Functional specifications are based upon the product requirements documentation put forward), drawing upon a functional specification document, showing the behaviour or functionality of a software product on an abstract level.
+
 The importance of writing functional specifications relates to the creation of a design document, manuals for end-users, functional and architecture documents, being a means to communicate among groups separated by their software development locations. Although during the product development phase amendments to functional specifications may be necessary, keeping in sight new marketing requirements.
-[2.4] Architecture and Design Documents
+
+#### [2.4] Architecture and Design Documents
+
 The architecture document in effect is formed once all the requirements have been collected and arranged. This document defines different components of the product and how they interact with each other. Further outlining the technologies used to build the product. Whilst the documents are completed and moulded around the project, the (project) team also needs to consider the timelines of the project. This refers to the agreed target date for the product to be on the market.
+
 Thereafter defining architecture, software components and their interfaces, the next phase of development is the creation of a design document. In the architecture document, a component is defined and stated to provide certain functionality. Whereas during the generation of the design document (stage), you have to define what is in the component.
+
 Although the design document and architecture document could be viewed or merged into one individual document, thus making it easier to navigate and locate information based on the project and formulate all the information on a component in one space rather than separating the information. Hence while the architecture and design can be seen as two separate levels, the design document is essentially just elaborating on the architecture level, adding a miniscule amount of information still relating to the component, rather than describing additional new information about the component.
-[2.5] Implementation and coding
+
+#### [2.5] Implementation and coding
+
 The Implementation and coding phase is initiated when software developers take the design documents and development tools (editors, compilers, debuggers etc.) and start writing the software (Halvorsen 2017).
+
 This is an arduous process and usually the longest phase in the product life cycle. Each developer has to write their own code to a standard, whilst collaborating with other developers to ensure that different components can interoperate with each other. However, this challenging issue may-be bypassed through using or outlining coding standards beforehand. Hence ensuring that the written procedures are followed or abided by, thus enabling the code to be created similar structurally and aesthetically. Furthermore, elaborating on the reason for coding standards during the project or product life cycle, multiple people may have access to modify files, therefore if people are not following the pre-set rules then this would have an impact on the whole compilation and building process. For instance, duplicate definitions of the same variables may cause problems, while similarly, if included files are not written properly you can easily cause the creation of loops.
-[2.6] Testing and quality assurance
+
+#### [2.6] Testing and quality assurance
+
 Subsequently, once the implementation and coding stage is completed the next phase in software development is testing. The code is tested to see whether it is functional and works to an acceptable standard whilst meeting and assuring the quality. This might be initiated through managing the product life cycle and verifying that the software meets the defined quality standards or customer agreements (quality assurance). Thereafter, the testing aspect may be instigated during the production phase, this will be concerned with finding errors in the software through breaking the software code into segments for testing. In addition different versions of the application software may be released after collecting feedback  in relation to errors found, this is integral to ensure a more accurate and robust test. In addition, throughout the testing process the ideology behind it is to get a group of testers to observe what the software does and for them to report on its quality, as well as any serious issues that they encounter (under the assumption that the system is flawed and has copious amounts of bugs) (Qatestlab Blog 2005-2010).
-[2.7] Software release
+
+#### [2.7] Software release
+
 Before the subsequent marketing and selling of a software product, the product needs to be officially released. This essentially means that the initial software product is created in a repository form (original copy), ensuring that it has been tested for functionality, etc. After releasing the software, development may continue but will not impact or make any subsequent changes to the original version of software already released. A version number is assigned to the software on its release and is changed if the product is updated to demonstrate to the customer that this is an updated version of the original version.
+
 Further development of the software usually continues in the production of a new version that may contain new features of the product. The released software is only updated though if a bug fixed version is required or enhancements have been made.
+
 Usually incremental version numbers are assigned following a scheme of when the next release of the software is sent to market. Though the change in version number depends on whether the new software contains a major change to the previous version or if it contains bug fixes and enhancement to existing functionality. Further releases are also important because they are compiled versions of a particular version of the code, thus they provide a stable set of binaries for testing which could assist in mitigating vulnerabilities (In simpler terms the paragraphs above pertain to the updates and patches in software development after and before release).
-[2.8] Documentation
+
+#### [2.8] Documentation
+
 Reliable documentation in my opinion, is crucial throughout the software development (life cycle). The presence of documentation should in principle help keep track of all aspects of an application and improve the quality of a software product. Furthermore, it should mainly focus on development, maintenance and knowledge transfer to other developers (Trica 2017). Through the use of this documentation, information is therefore made more easily accessible to any member involved in the production (information all gathered in one point or origin).
+
 Inaccurate documentation is a fundamental source of vulnerabilities. Since a document is the congregation of information usually linking to all stages of a project, failure to update, properly maintain or the inclusion of faulty data can lead to vulnerabilities occurring. An instance of documentation leading to vulnerabilities may be seen during the testing phase. For example, erroneous results could be noted as being fixed despite the problem re-occurring and still existing.
+
 [2.9] Support and New Features
+
 This part of the process is usually initiated after the development of the software. This is integral to the cycle as users of the developed software may need support after release, ensuring user satisfaction. The problems encountered during the support process can also help inform and lead to the mitigation of vulnerabilities.
+
 With regards to new features, this may be a factor or prerequisite as developers regularly produce updates to compete with competitors’ products that may have other features. Moreover, better support and new features usually lead to better branding and devotion among user’s, creating or leading to the generation of a referral business.
+
 [2.10] Software Development Life Cycles
+
 SDLC (System Development Life Cycle) is a term generally applied to system engineering, information systems and software engineering, to describe the process for planning, creating, testing, and deploying an information system (Wikipedia 2018).
+
 This interconnects with software development, as the different life cycle methodology’s define the procedure’s and show regulated development, portraying the process of the plan, creation and deployment of an information system.
+
 Furthermore, once applied to the development of software, the model acts as a formatted structure, that once followed may bring about advantages or disadvantages depending on the life cycle used. All singular life cycles are useful if applied in the correct situations, therefore it is necessary to analysis the project size, structure, requirements, etc. before choosing a life cycle to be applied.
+
 Examples of software development life cycles consist of: Water Fall method, a sequential non-iterative design model used in software development processes, Prototyping Model; Evolutionary Model etc. Further examples may be extracted from Alan (2017), as there are numerous other cycles not covered in this report.
+
 [3] Vulnerabilities Topic
+
 The topic of software vulnerabilities pertains to the (weaknesses/flaws) faults that may be exploited within a given system, which in turn may compromise the system itself.
+
 A systems flaws may be exposed to various different types of vulnerabilities. Hence it is crucial that there is an understanding of the diverse array of vulnerabilities, the prevention and detection in order to try to avoid their presence in the final software version of the system and thus reducing the possibility of attacks and costly damages.
+
 The knowledge of any given vulnerability in a system may give an attacker, who is exploiting a specific vulnerability, the ability to reduce a systems information assurance. Thus allowing access to sensitive files and data harmful to the cliental of an organisation (users) or the organisation itself (exploiting a loophole).
+
 Vulnerabilities are essentially the intersection of three elements: a system susceptibility or flaw, attacker access to the flaw, and attacker capability to exploit the flaw (Jimenez et al. no date).
+
 [3.1] Examples of Vulnerabilities
+
 Following the discussion of vulnerabilities, as mentioned above under the heading “Vulnerabilities Topic” (3), the section below provides examples of a few of the most common type of vulnerabilities (Jimenez et al. no date):
+
 • Buffer overflow: this usually occurs during fixed length buffers, when some data is going to be written beyond the boundaries of the current defined capacity (hence the use of the word “overflow”).
+
 This could lead to the system malfunctioning since the new data could in principle corrupt the data of other buffers or processes.
 In continuation, Buffer overflow could also lead to loss of control and gain (for an attacker) over a system, through the injection of malicious code. Subsequently altering the execution sequence of the program in order to execute the injected code, thus taking control of the system.
- XSS or cross site scripting: commonly associated or connected to web applications, cross site scripting consists of the injection of code in pages accessed by other users. Through exploitation an attacker may bypass access controls, perform phishing, identity theft or expose connections.
- SQL injection: consists of injecting code with the intension of exploiting the content of a database. This usually happens because the inputs are not handled correctly, an attacker may retrieve or get sensitive information from the database (under attack).
+
+•  XSS or cross site scripting: commonly associated or connected to web applications, cross site scripting consists of the injection of code in pages accessed by other users. Through exploitation an attacker may bypass access controls, perform phishing, identity theft or expose connections.
+
+• SQL injection: consists of injecting code with the intension of exploiting the content of a database. This usually happens because the inputs are not handled correctly, an attacker may retrieve or get sensitive information from the database (under attack).
+
 [4] Case Studies
+
 [4.1] Case Study:” goto fail” 2014 Apple
 In 2014, Apple fixed a critical security vulnerability that was found to be caused through the use of "cut and paste" during editing. The programmer embedded a duplicate line of code, that caused the software to bypass a block of code that verifies the authenticity of access credentials (connections to secure sites could be spied on). The essence of the problem, though straight forward, led to invalid certificates being quietly accepted as valid (Woody 2015). The vulnerability is described in the National Vulnerability Database, cited by Ducklin (2014) as follows:
 •	"Impact: An attacker with a privileged network position may capture or modify data in sessions protected by SSL/TLS" –
