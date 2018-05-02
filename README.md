@@ -44,7 +44,7 @@ Keywords: Software Development, Vulnerabilities - Mitigation, Testing, Detection
 
 This documentation pertains to the reduction of software vulnerabilities during development, further delving into the subject or topics of what is software development (this includes Software-Development-Life-Cycles | SDLC) and what are vulnerabilities. Consequently, defining and suggesting possible solutions to these vulnerabilities during development, using case studies as illustrations and to portray the risks that herald with not mitigating vulnerabilities effectively. Thereafter concluding with the various ways in which to resolve (fix) and reduce vulnerabilities encountered during the development or finished production of a system. This will include a self-opinionated view, whilst lightly addressing the issues usually encountered when re-defining software development and vulnerabilities to better bring the final point across (use as a reminder). 
 
-Following the conclusion, the recommendations proposed will be applied to an ongoing capstone project. Thus meeting the aims and objectives outlined in the managment documentation: carry out qualitative and quantitave research, create a secondary report,  design a questionnaire, create a primary report, all relating to vulnerabilities in software development. This is and should prevent or lower the probability of vulnerabilities appearing in the application.       
+Following the conclusion, the recommendations proposed will be applied to an ongoing capstone project.Thus meeting the aims and objectives outlined in the managment documentation: carry out qualitative and quantitave research, create a secondary report,  design a questionnaire, create a primary report, all relating to vulnerabilities in software development. This is and should prevent or lower the probability of vulnerabilities appearing in the application.       
 
 ### [2] Software Development
 
@@ -265,7 +265,7 @@ Last Update: 25/02/2018
 
 ### [1] Introduction
 
-This report has been formed using primary research to explore and provide information on an investigation, to answer the following queries: Add link to aims and objectives
+This report has been formed using primary research to explore and provide information on an investigation, to answer the following queries: 
 
 • Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
 
@@ -280,6 +280,8 @@ The deductions documented or detailed below are based on data that has been, col
 The raw data gathered was collated on an excel spreadsheet. It was then put into a table (using the create table tool) to organise and structure the data, thus making it easier to interpret. Graphs were also created using the data to illustrate the results and enable analysis to check for correlations, trends, comparisons, etc. The information was used to solidify the points brought across in the document below.
 
 However, it is worth noting at this stage that the data indicates that part of the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present's the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
+
+The data collected in this report and the recommendations formed, like the secondary research will be applied to an ongoing capstone project. The data and information from both the reports will be used to meet the aims and objectives outlined in the managment documentation for the capstone project: carry out qualitative and quantitave research, create a secondary report,  design a questionnaire, create a primary report, all relating to vulnerabilities in software development. This is and should prevent or lower the probability of vulnerabilities appearing in the application.       
 
 ### [2] Primary Research Plan
 
