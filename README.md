@@ -316,6 +316,8 @@ Figure 2 (Chart)
 
 ![Alt text](https://github.com/matthewsides/Research-Software-Vulnerabilities/blob/master/Q7_CT.png?raw=true "Optional Title")
 
+The data collected essentially shows that the majority of the respondents consider themselves to be fairly knowledgable within  the mid range of 4-6, with an equal amount suggesting that they are very knowledgable in the subject of vulnerabilities. 
+
 ### [4] Conclusion
 
 In conclusion, having analysed all the data collected in the second and primary research. In particular using the case studies, it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate testing during and after software development. This would essentially minimise the possible exploits within the system since potentially all factors have been considered, tested and fixed either before the software has been released or after updates. The use of testing (security testing, functional, etc.) would also prevent similar occurrences to those seen in the Apple case study as the functions and security would be reviewed before release or use.
