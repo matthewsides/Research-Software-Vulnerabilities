@@ -295,9 +295,14 @@ Following the implementation of the Simple random sampling method, another metho
 
 The information gathered was both qualitative and quantitative. With quantitative research methods or designs such as Descriptive Design being applied, where a hypothesis is not formed until the data is collected. Whilst the application of both Haphazard sampling and simple random sampling is a quantitative and qualitative method, emphasising both written and numerical data (the use expanded upon in the above sections).
 
-### [3] Analysis add graphs
+### [3] Analysis 
 
-Through thorough analysis of the information (portrayed in a graph) collated from the raw data, the data suggests that the majority of those surveyed understand what a vulnerability is. However, when asked if they understood the issues of vulnerabilities the data shows a mixed response:  with seven out of the twenty stating that they do not understand the issues (issues, meaning what would happen if left unchecked) of vulnerabilities, though one of the respondents answers was deemed invalid as other information clearly falsified. Whilst another was unsure as to the intention of the question and thus left it blank. This furthers substantiates that some of the respondents were incapable of answering the question as they did not understand the issues.
+Through thorough analysis of the information (portrayed in a graph) collated from the raw data, the data suggests that the majority of those surveyed understand what a vulnerability is (As seen in Figure 1, Below). However, when asked if they understood the issues of vulnerabilities the data shows a mixed response:  with seven out of the twenty stating that they do not understand the issues (issues, meaning what would happen if left unchecked) of vulnerabilities, though one of the respondents answers was deemed invalid as other information clearly falsified. Whilst another was unsure as to the intention of the question and thus left it blank. This furthers substantiates that some of the respondents were incapable of answering the question as they did not understand the issues.
+
+Figure 1
+
+![Alt text](https://github.com/matthewsides/Research-Software-Vulnerabilities/blob/master/Q3_CT.png?raw=true "Optional Title")
+
 
 On further analysis of the data, it indicates that less than half of those surveyed which is still a large margin of whom did not know the problems vulnerabilities may herald. This is concerning, taking into consideration that 15 out of the 20 respondents either work in an ICT related field or are studying ICT as a subject, so it is probable that the students or tutors have covered this subject at some point. Whilst three of the non ICT students displayed a slight understanding, more than the ICT students, however this information cannot be comparative, since the number of ICT students trumps the number of non- ICT students. This means that it is more likely that an outcome occurs where the amount of non ICT students in a ratio of knowing and not knowing, have a higher rate of having an understanding in comparison to the amount (numerical value) not understanding.
 
