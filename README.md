@@ -114,13 +114,13 @@ Reliable documentation in my opinion, is crucial throughout the software develop
 
 Inaccurate documentation is a fundamental source of vulnerabilities. Since a document is the congregation of information usually linking to all stages of a project, failure to update, properly maintain or the inclusion of faulty data can lead to vulnerabilities occurring. An instance of documentation leading to vulnerabilities may be seen during the testing phase. For example, erroneous results could be noted as being fixed despite the problem re-occurring and still existing.
 
-[2.9] Support and New Features
+#### [2.9] Support and New Features
 
 This part of the process is usually initiated after the development of the software. This is integral to the cycle as users of the developed software may need support after release, ensuring user satisfaction. The problems encountered during the support process can also help inform and lead to the mitigation of vulnerabilities.
 
 With regards to new features, this may be a factor or prerequisite as developers regularly produce updates to compete with competitors’ products that may have other features. Moreover, better support and new features usually lead to better branding and devotion among user’s, creating or leading to the generation of a referral business.
 
-[2.10] Software Development Life Cycles
+#### [2.10] Software Development Life Cycles
 
 SDLC (System Development Life Cycle) is a term generally applied to system engineering, information systems and software engineering, to describe the process for planning, creating, testing, and deploying an information system (Wikipedia 2018).
 
@@ -130,7 +130,7 @@ Furthermore, once applied to the development of software, the model acts as a fo
 
 Examples of software development life cycles consist of: Water Fall method, a sequential non-iterative design model used in software development processes, Prototyping Model; Evolutionary Model etc. Further examples may be extracted from Alan (2017), as there are numerous other cycles not covered in this report.
 
-[3] Vulnerabilities Topic
+### [3] Vulnerabilities Topic
 
 The topic of software vulnerabilities pertains to the (weaknesses/flaws) faults that may be exploited within a given system, which in turn may compromise the system itself.
 
@@ -140,7 +140,7 @@ The knowledge of any given vulnerability in a system may give an attacker, who i
 
 Vulnerabilities are essentially the intersection of three elements: a system susceptibility or flaw, attacker access to the flaw, and attacker capability to exploit the flaw (Jimenez et al. no date).
 
-[3.1] Examples of Vulnerabilities
+#### [3.1] Examples of Vulnerabilities
 
 Following the discussion of vulnerabilities, as mentioned above under the heading “Vulnerabilities Topic” (3), the section below provides examples of a few of the most common type of vulnerabilities (Jimenez et al. no date):
 
@@ -153,62 +153,116 @@ In continuation, Buffer overflow could also lead to loss of control and gain (fo
 
 • SQL injection: consists of injecting code with the intension of exploiting the content of a database. This usually happens because the inputs are not handled correctly, an attacker may retrieve or get sensitive information from the database (under attack).
 
-[4] Case Studies
+### [4] Case Studies
 
-[4.1] Case Study:” goto fail” 2014 Apple
+#### [4.1] Case Study:” goto fail” 2014 Apple
+
 In 2014, Apple fixed a critical security vulnerability that was found to be caused through the use of "cut and paste" during editing. The programmer embedded a duplicate line of code, that caused the software to bypass a block of code that verifies the authenticity of access credentials (connections to secure sites could be spied on). The essence of the problem, though straight forward, led to invalid certificates being quietly accepted as valid (Woody 2015). The vulnerability is described in the National Vulnerability Database, cited by Ducklin (2014) as follows:
+
 •	"Impact: An attacker with a privileged network position may capture or modify data in sessions protected by SSL/TLS" –
+
 •	"Description: Secure Transport failed to validate the authenticity of the connection. This issue was addressed by restoring missing validation steps." -
+
 Researchers learnt of this security flaw in iPhones and iPads, with the confirmation of Apple stating that it was also present in notebook and desktop machines using the Mac OS X operating system.
+
 This vulnerability essentially led to attackers being able to use invalid credentials to gain access to any information on the targeted device, such as email, financial data, and access credentials to other systems and devices.
+
 Further elaborating on the root cause of the problem the duplicated “goto fail” line or block of the code, had an issue with the indentation (segment displayed below) being misleading, since the code did not retain or use curly braces after the “if” statement, the second (duplicate) “goto fail” was therefore always executed.
+
 In context, this meant that vital signature checking code was skipped, so all signatures regardless of authenticity were registered as acceptable. The extraneous (duplicate goto block of code) “goto” caused the function to return 0 (“no error”) when the rest of the checking was skipped, as a result causing invalid certificates to be accepted and thus lead to what is now termed or coined as the "goto fail" incident (Wheeler 2017).
-[4.2] Case Study: 2017 Equifax Breach
+
+#### [4.2] Case Study: 2017 Equifax Breach
+
 In 2017 Equifax experienced a breach in their systems, resulting in the loss of sensitive data and personal records on 145 million Americans and hundreds of thousands in the UK and Canada. The extent and impact of such a breach, along with the information procured by attackers, could have led to identity theft (impersonation), as seen in similar cases earlier experienced in 2017, known as "IRS FAFSA tool breach" (Qatestlab Blog 2005-2010).
+
 Further delving into how the breach resulted and the vulnerabilities were exploited, it occurred due to the negligence of Equifax failing to find and promptly patch a publicly known vulnerability in Apache Struts (a free, open-source, MVC framework for creating elegant, modern Java web applications.), which was used in its Consumer Dispute Portal. In simple terms, Apache Struts was essentially used to develop their own software or portal that held important user information, however during development and due to a fault in the software used for development (Apache Struts) a vulnerability materialised and went unnoticed.
+
 Moreover, the vulnerability was exploited over 2 months after a fix was made available. In addition, the company did not discover that its systems had been compromised for another 1.5 months. This series of failures demonstrates the significant weaknesses in Equifax’s security program during this time frame (Sethi 2017) (BBC News 2017) (Thomson 2018).
-[5] Mitigating Software Vulnerabilities
+
+### [5] Mitigating Software Vulnerabilities
+
 Models are a first approach to deal with and understanding vulnerabilities (putting in stronger controls and fleshing out the software better). However, it is necessary to rely on methods or procedures to prevent any risks related to vulnerabilities.
+
 Further ways of mitigation is software inspection. This usually consists of reading or visually inspecting the program code or documents in order to find any defects and correct them early in the development process, though this generally relies on the ability of the person viewing the code (Simmons 2015).
+
 Security testing is also another integral method of finding vulnerabilities in a system, if the vulnerabilities make it all the way to a test environment. Security testing tools and manual techniques may discover these types of issues (Leemon 2015).
+
 In regards to mitigating or preventing software vulnerabilities being exploited, that have occurred during the development of software but went unnoticed, consistent monitoring of applications for unusual activity may halt attacks, though not ideal in this phase, it is critical to have controls in the right place (National Cyber Security Centre 2016).
-[6] Conclusion
+
+### [6] Conclusion
+
 In conclusion, based on the information presented above concerning the case studies: in the Apple situation and Equifax state of affairs, during both occurrences the vulnerabilities presented and exploited by the alleged attackers could have been prevented and mitigated if the necessary cautions and procedures were put in place and followed. With the Apple incident, which stemmed from human negligence that could have been prevented if a proper software inspection took place. Similarities can be seen with regards to the Equifax situation, where if the code was manually reviewed, steps could have been put in motion to mitigate said vulnerabilities that appeared.
+
 Through further analysis it may be seen that the response taken by Apple was optimal. Though with regards to Equifax's response not all information regarding the attack was exposed and neither was there consistent monitoring by their operation team, as the exploitation of said vulnerability had occurred 1.5 months before the organisation had found out about the attack, showing that the operation team was not searching for unusual activity, which could have led to the situation devolving before reaching the stage it did. Whilst it also took another 2 months to fix and roll out a patch.
+
 In my opinion, which is supported by research (Anton et al 2003), whilst the situation for both high profile organisations were eventually sorted, with the vulnerabilities found in the software being mitigated. The foremost factor being whether theses vulnerabilities could have been mitigated earlier (during development), rather than only after release. Which based on factual evidence and methodologies used in the prevention of vulnerabilities, points to the decisive answer being certainly.  
-[7] Bibliography
+
+### [7] Bibliography
+
 • Abrahamsson, P., Salo, P., Ronkainen, O. and Warsta, J. (2002). Agile Software Development Methods: Review an Analysis. VTT Publications. Available at: https://arxiv.org/ftp/arxiv/papers/1709/1709.08439.pdf [Accessed on 26th Jan 2018]
+
 • Antón, Phillip., Anderson, Robert., Mesic, Richard., Scheiern, Michael. (2003) Finding and Fixing Vulnerabilities in Information Systems. The Vulnerability, Assessment & Mitigation Methodology. Santa Monica: RAND.
+
 • Allen, Paul.G School of Computer Engineering and Science. (2017). Software development lifecycle. Available at: https://courses.cs.washington.edu/courses/cse403/16sp/lectures/lecture-03-software-lifecycle.pdf [Accessed on:26th Jan 2018]
+
 • BBC News. (2017). Equifax data hack affected 694,000 UK customers. Available at: http://www.bbc.co.uk/news/business-41575188 [Accessed on:26th Jan 2018]
+
 • Duckins, Paul. (2014). Anatomy of a “goto fail” – Apple’s SSL bug explained, plus an unofficial patch for OS X! Available at: https://nakedsecurity.sophos.com/2014/02/24/anatomy-of-a-goto-fail-apples-ssl-bug-explained-plus-an-unofficial-patch/[Accessed on: 28th Jan 2017]
+
 • Jimenez,W., Mammar, A., and Cavalli, A., (No date). Software Vulnerabilities, Prevention and Detection Methods: A Review1. Available at: http://www-lor.int-evry.fr/~anna/files/sec-mda09.pdf [Accessed on: 28th Jan 2018]
+
 • Halvorsen, H-P. (2017). Software Development: A Practical Approach! Available at:http://home.hit.no/~hansha/documents/software/software_development/resources/Software Development.pdf [Accessed on: 28th Jan 2018]
+
 • Leemon, Alex. (2015). 5 IT BEST PRACTICES THAT ALSO MITIGATE CYBER SECURITY VULNERABILITIES IN OT. Available at: https://www.cyberark.com/blog/5-it-best-practices-that-also-mitigate-cyber-security-vulnerabilities-in-ot [ Accessed on: 2nd Feb 2018]
+
 • National Cyber Security Centre. (2016). Common cyber attacks: reducing the impact. Available at: https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/common_cyber_attacks_ncsc.pdf {Accessed on: 2nd Feb 2018]
+
 • Qatestlab Blog (2005-2010). Browser Update. Available at: http://blog.qatestlab.com/2011/04/07/what-is-the-difference-between-qa-and-testing/ [Accessed on: 2nd Feb 2018] (blog.qatestlab)Rappeport, A. (2017). Up to 100,000 Taxpayers Compromised in Fafsa Tool Breach, I.R.S. Says. The New York Times. Available at: https://www.nytimes.com/2017/04/06/us/politics/internal-revenue-service-breach-taxpayer-data.html [Accessed on: 3rd Feb 2018]
+
 • Thomson, Iain. (2018). Equifax hack worse than previously thought: Biz kissed goodbye to card expiry dates, tax IDs etc. Available at: https://www.theregister.co.uk/2018/02/13/equifax_security_breach_bad/ [Accessed on: 7th Feb 2018]
+
 • Sethi, Ami. (2017). What can your firm learn from the unfolding Equifax hack? Available at: https://www.synopsys.com/blogs/software-security/security-breach-prevention-tips/ [Accessed on:7th Feb 2018}
+
 • Sethi, Amit. (2017). Top security breaches of 2017 (+2018 cyber security predictions). Available at: https://www.synopsys.com/blogs/software-security/top-data-security-breaches-2017/ [Accessed on: 2nd Feb 2018]
+
 • Simmons, Rod. (2015). 4 Steps to Mitigate 95% of Known Vulnerabilities. Available at: http://www.itprotoday.com/security/4-steps-mitigate-95-known-vulnerabilities [Accessed on: 28th Jan 2018]
+
 • Trica, Alex. (2017). The Importance of Documentation in Software Development. Available at: https://filtered.com/blog/post/project-management/the-importance-of-documentation-in-software-development [Accessed on: 28th Jan 2018]
+
 • Wheeler. David. (2017). The Apple goto fail vulnerability: lessons learned . Available at: https://www.dwheeler.com/essays/apple-goto-fail.html [Accessed on: 5th Feb 2018]
+
 • Wilkipedia (2018). Systems development life cycle. Available at: https://en.wikipedia.org/wiki/Systems_development_life_cycle [Accessed on: 27th Jan 2018]
+
 • Woody, Carol. and Nichols, Bill. (2015). Heartbleed and Goto Fail: Two Case Studies for Predicting Software Assurance Using Quality and Reliability Measures. Available at: https://insights.sei.cmu.edu/sei_blog/2015/04/heartbleed-and-goto-fail-two-case-studies-for-predicting-software-assurance-using-quality-and-reliab.html [Accessed on: 5th Feb 2018]
+
 • Ur Rehman, R., Paul, C. (2002). The Linux Development Platform: Introduction to Software Development Chapter 1. Available at: http://catalogue.pearsoned.co.uk/samplechapter/0130091154.pdf [Accessed on: 6th Feb 2018]
-Primary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion
+
+## Primary Research Vulnerabilities; formulation, Comparison and analysis; Conclusion
+
 Matthew Sides
+
 West Herts College, Watford
+
 Hertfordshire, England
+
 Last Update: 25/02/2018
+
 18/04/2018
-Table of Contents
+
+### Table of Contents
+
 [1] Introduction
+
 [2] Primary Research Plan
+
 [3] Analysis
+
 [4] Conclusion
+
 [5] Self-Reflection
+
 [1] Introduction
+
 This report has been formed using primary research to explore and provide information on an investigation, to answer the following queries: Add link to aims and objectives
 • Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
 • Are ICT students or non ICT students aware of possible ways to mitigate vulnerabilities?
