@@ -261,33 +261,60 @@ Last Update: 25/02/2018
 
 [5] Self-Reflection
 
-[1] Introduction
+### [1] Introduction
 
 This report has been formed using primary research to explore and provide information on an investigation, to answer the following queries: Add link to aims and objectives
+
 • Are the conglomerate of ICT students and non ICT students aware of the issues of vulnerabilities?
+
 • Are ICT students or non ICT students aware of possible ways to mitigate vulnerabilities?
+
 • Do the two groups of conglomerates (ICT students and non ICT students) know why vulnerabilities may occur in a system?
+
 Furthermore, a comparative analysis of both primary and secondary information is covered on the basis that a conclusive answer is formed. Whilst outlining how the study was compiled and implemented as mentioned in the following document.
+
 The deductions documented or detailed below are based on data that has been, collated, reviewed, modified, deleted and replaced using a technique known as data cleansing. Data cleansing refers to the process of replacing, modifying, or deleting coarse data, emphasising the mitigation of inconsistencies ensuring a consistent data set.
+
 The raw data gathered was collated on an excel spreadsheet. It was then put into a table (using the create table tool) to organise and structure the data, thus making it easier to interpret. Graphs were also created using the data to illustrate the results and enable analysis to check for correlations, trends, comparisons, etc. The information was used to solidify the points brought across in the document below.
-However, it is worth noting at this stage that the data indicates that part of the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present`s the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
-[2] Primary Research Plan
+
+However, it is worth noting at this stage that the data indicates that part of the primary data is proving to be inconclusive due to errors in the consultations (answers provided), though this may be used to further prove and answer theoretical questions brought across, whilst also present's the opportunity to evaluate and suggest room for further improvements when designing and producing a survey in the future.
+
+### [2] Primary Research Plan
+
 The ground work for the primary research was essentially covered through the application of a pre-formulated survey, basing questions around information covered and pertained in the secondary research carried out prior. Sampling methods were also applied in the application of the survey, using the methodology such as the simple random sampling (SRS) method; a subset of a statistical population in which each member of the subset has an equal probability of being chosen.
+
 The principle reason behind the use of this technique was to essentially cover and acquire a wide range of results and findings, thus obtaining the results through all ages. Though what was a common occurrence or what each respondent had in common, was that they were related in some form to the ICT department or were of a young age. This only deviated in 5 occurrences out of the 20 surveyed, in which four were unrelated to the IT industry, whilst another relayed inconclusive findings as all the information noted by the respondent can be seen to be falsified and so the erroneous data was omitted from the graph charts, during data cleaning. There was also another occurrence in which the name noted down seemed fabricated (Cartoon Character’s Name; Johnny Bravo), though since the name is not the most integral part of the survey and all the other fields and factors were covered, seemly with intuitive answers, it is still possible to relay viable information from the data.
+
 Further delving into the factors and reason behind the high number of ICT students that took the survey, this can be seen to stem from the fact that all the ICT department is based on the same floor. Therefore it is no surprise that the majority of the data gathered is from ICT students and is in theory beneficial to the questions imposed above.
+
 Following the implementation of the Simple random sampling method, another method used during the design and presentation of the survey was a non-probability method known as haphazard sample. Whilst heralding similarities to the simple random research method, ultimately SRS is a probability method. This was used to meet time scales as Haphazard sampling essentially entails choosing people based on their relative ease of access, though this was not necessarily a  disadvantage as it furthered the group/age range included in the populous, making it possible for an output of a more broader view when answering the pre-listed queries in this documentation.
+
 The information gathered was both qualitative and quantitative. With quantitative research methods or designs such as Descriptive Design being applied, where a hypothesis is not formed until the data is collected. Whilst the application of both Haphazard sampling and simple random sampling is a quantitative and qualitative method, emphasising both written and numerical data (the use expanded upon in the above sections).
-[3] Analysis add graphs
+
+### [3] Analysis add graphs
+
 Through thorough analysis of the information (portrayed in a graph) collated from the raw data, the data suggests that the majority of those surveyed understand what a vulnerability is. However, when asked if they understood the issues of vulnerabilities the data shows a mixed response:  with seven out of the twenty stating that they do not understand the issues (issues, meaning what would happen if left unchecked) of vulnerabilities, though one of the respondents answers was deemed invalid as other information clearly falsified. Whilst another was unsure as to the intention of the question and thus left it blank. This furthers substantiates that some of the respondents were incapable of answering the question as they did not understand the issues.
+
 On further analysis of the data, it indicates that less than half of those surveyed which is still a large margin of whom did not know the problems vulnerabilities may herald. This is concerning, taking into consideration that 15 out of the 20 respondents either work in an ICT related field or are studying ICT as a subject, so it is probable that the students or tutors have covered this subject at some point. Whilst three of the non ICT students displayed a slight understanding, more than the ICT students, however this information cannot be comparative, since the number of ICT students trumps the number of non- ICT students. This means that it is more likely that an outcome occurs where the amount of non ICT students in a ratio of knowing and not knowing, have a higher rate of having an understanding in comparison to the amount (numerical value) not understanding.
+
 In continuation to the points covered above, based on the statistics and facts it may be determined that those surveyed understand why vulnerabilities may occur, working in correlation with the data gathered that 18 out of the 20 when posed with numerous options as to the definition of vulnerabilities, chose the correct choice (faults that may be exploited in a given system). Whereas when enquired about the reasons as to why faults or vulnerabilities may occur, particularly in Windows and Apples systems, the main trend or common factor seems to be human error, whether this relates to client or the business side.
+
 Whilst other common occurrences seemed to be lack of monitoring and manual reading of cod. All common flaws that organisations are usually exploited by as seen and covered in the secondary research report and case studies ‘gotofail’ (Apple Breach) and Equifax (Breach). Where vulnerabilities were seemly caused by human error; in the case of the ‘gotofail’ vulnerability, it was stated to have occurred due to negligence, not reviewing the code, thus leading to a duplication of a line being left in with a missing parenthesis. Equifax’s vulnerabilities seemed to have occurred due to software faults used for or during development and lack of monitoring , though the impact or outcome could have been mitigated or reduced based on whether the proper monitoring and procedures were put in place. Thus supporting the idea and fronting that the majority of people know the reasons behind vulnerabilities in software or systems (the comparative analysis between data and real life situations substantiate this).
-[4] Conclusion
+
+### [4] Conclusion
+
 In conclusion, having analysed all the data collected in the second and primary research. In particular using the case studies, it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate testing during and after software development. This would essentially minimise the possible exploits within the system since potentially all factors have been considered, tested and fixed either before the software has been released or after updates. The use of testing (security testing, functional, etc.) would also prevent similar occurrences to those seen in the Apple case study as the functions and security would be reviewed before release or use.
+
 Furthermore, taking into consideration the feedback gathered from respondents, (primary research) in addition to the case studies and software development stages covered in the secondary research. The results indicate that versions along with monitoring is recommended in order to lessen the probability of vulnerabilities occurring. Expanding on this point, the reason for self-regulation or monitoring is to ensure that any unusual activity is catalogued, thus preventing the issue from getting out of hand as a patch may be available with those responsible or involved being brought to account. Whilst the addition of versions essentially allows for user feedback, branching upon the idea of updates, which would ensure that the software is compatible with the latest system. In addition, with the user feedback proving practical when implementing these updates as the feedback received may point to bugs previously missed, thus ensuring the software quality upon release and removing the possibility of exploitation.
+
 So on reflection, a further recommendation proposed as a result of this research would be to use an agreed model or structure to alleviate or lesson the likelihood of vulnerabilities. This would essentially put in stronger controls and more effectively flesh out the software. Along with model checking, a technique which tests if the model of a system meets its specification, it can also be used to detect vulnerabilities. The underlying reason for this recommendation is due to the lack of understanding of how to prevent vulnerabilities from those surveyed. Through using models as long as the model is followed there is a higher chance of preventing or finding vulnerabilities, despite a lack of knowledge.
-[5] Self-Reflection
+
+### [5] Self-Reflection
+
 On reflection, having completed this research I have been able evaluate what went well, what went wrong, what could have been done to attain a more favourable outcome and essentially improve or learn from the mistakes made during this research project. 
+
 With regards to any future research I have concluded that I would need to focus on the questions and articulate them more effectively. I would also pilot the questions to be used to assist with this. This would then allow for alterations to take place if necessary. This is integral due to the predicament encountered during this research project where certain questions were misconstrued or the lengthiness of the questions left those surveyed unwilling to answer. In addition, the questions were too protracted, the use of tick boxes along with pre-set answers would have covered this more effectively as those surveyed would probably feel more obliged and bothered to give a more accurate answer. This would lessen the time taken to complete the form with clear and concise answers, which would give a more precise reading and be beneficial for both the surveyor and those surveyed.
+
 Another area in which I could improve would be to implement a structure and/or plan at the start of the research project. Essentially due to time constraints the research was not planned or implemented effectively, thus leading to inconsistencies and problems with the data collated and query’s that required answering. Therefore in the future it is recommended that some time is spent on a management plan and a schedule to ensure that timescales are adhered to.
+
 Nevertheless, there are some positives that can be noted from the completion of this project, such as the experience attained, along with the conclusions made and inferred, thus giving valuable information pertaining to what should be done in order to ensure vulnerabilities and security breaches do not appear in a software application or system. This information may be referenced continuously throughout future projects.
