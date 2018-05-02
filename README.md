@@ -316,7 +316,11 @@ Figure 2 (Chart)
 
 ![Alt text](https://github.com/matthewsides/Research-Software-Vulnerabilities/blob/master/Q7_CT.png?raw=true "Optional Title")
 
-The data collected essentially shows that the majority of the respondents consider themselves to be fairly knowledgable within  the mid range of 4-6, with an equal amount suggesting that they are very knowledgable in the subject of vulnerabilities. 
+The data collected (presented in figure 3, displayed below) essentially shows a cluster for two choices, with  the majority of the respondents considering themselves to be fairly knowledgable within  the mid range of 4-6 and an equal amount suggesting that they are very knowledgable in the subject of vulnerabilities. Whilst the remaining 3 respondents were seperated with 1 stating that they believe their knowledge extends to the range of 10-11 (expert level) and the remaining two opting as not that knowledgable (novice level) on the subject.  
+
+Figure 3  (Chart)
+
+https://github.com/matthewsides/Research-Software-Vulnerabilities/blob/master/Q7_CT.png
 
 ### [4] Conclusion
 
