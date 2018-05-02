@@ -312,6 +312,10 @@ Whilst other common occurrences seemed to be lack of monitoring and manual readi
 
 Following the prior point that the majority of people understand or know the reasons behind vulnerabilities. The expected outcome suggests that the majority of the respondents should be aware of ways of preventing vulnerabilities and what mitigating vulnerabilities is. However through an analysis of the data collected and the graph displayed below (Figure 2), the opposite is recorded with only 4 of those surveyed out of the 20 appearing to know what mitigating software vulnerabilities entail. This could however be caused by the wording of the question as further evaluation of the respondents answers to other questions, demonstrates some knowledge as to how to prevent vulnerabilities.
 
+Figure 2 (Chart)
+
+![Alt text](https://github.com/matthewsides/Research-Software-Vulnerabilities/blob/master/Q7_CT.png?raw=true "Optional Title")
+
 ### [4] Conclusion
 
 In conclusion, having analysed all the data collected in the second and primary research. In particular using the case studies, it may be seen that the most probable course of action with regards to ensuring no security breaches occur with vulnerabilities not arising, would be to facilitate testing during and after software development. This would essentially minimise the possible exploits within the system since potentially all factors have been considered, tested and fixed either before the software has been released or after updates. The use of testing (security testing, functional, etc.) would also prevent similar occurrences to those seen in the Apple case study as the functions and security would be reviewed before release or use.
